@@ -10,3 +10,6 @@ Automatically copies whenever you select text
 [Link](https://greasyfork.org/en/scripts/390770-workaround-for-google-i-m-feeling-lucky-redirect)
 
 Removes redirect when using "I'm Feeling Lucky Shortcut"
+
+## Other Extensions
+

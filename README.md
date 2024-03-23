@@ -15,25 +15,5 @@ Removes redirect when using "I'm Feeling Lucky Shortcut"
 
 ### Quick Tab Switch
 [Link](https://chromewebstore.google.com/detail/shortkeys-custom-keyboard/logpjaacgmcbpdkdchjiaagddngobkck)
-Use left and right arrow keys for tab switching
 
-```
-[
-  {
-    "key": "right",
-    "action": "nexttab",
-    "sites": "",
-    "sitesArray": [
-      ""
-    ]
-  },
-  {
-    "key": "left",
-    "action": "prevtab",
-    "sites": "",
-    "sitesArray": [
-      ""
-    ]
-  }
-]
-```
+Then, go to [Chrome extension settings](chrome://extensions/shortcuts) and set Ctrl+Q for Previous Tab

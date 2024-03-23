@@ -13,3 +13,27 @@ Removes redirect when using "I'm Feeling Lucky Shortcut"
 
 ## Other Extensions
 
+### Quick Tab Switch
+[Link](https://chromewebstore.google.com/detail/shortkeys-custom-keyboard/logpjaacgmcbpdkdchjiaagddngobkck)
+Use left and right arrow keys for tab switching
+
+```
+[
+  {
+    "key": "right",
+    "action": "nexttab",
+    "sites": "",
+    "sitesArray": [
+      ""
+    ]
+  },
+  {
+    "key": "left",
+    "action": "prevtab",
+    "sites": "",
+    "sitesArray": [
+      ""
+    ]
+  }
+]
+```

@@ -11,7 +11,18 @@ Automatically copies whenever you select text
 
 Removes redirect when using "I'm Feeling Lucky Shortcut"
 
-## Other Extensions
+## Other Automations/Optimizations
+
+### Pin VSCode Folder to Windows Taskbar
+1. Create a .bat file with the code
+```
+@echo off
+code C:\YOUR_FILEPATH
+```
+2. Create shortcut from the .bat file
+3. Change shortcut target in "Properties" to `%ComSpec% /c BAT_FILEPATH`
+4. Pin shortcut to taskbar
+5. Change shortcut target back to BAT_FILEPATH
 
 ### Quick Tab Switch
 [Link](https://chromewebstore.google.com/detail/shortkeys-custom-keyboard/logpjaacgmcbpdkdchjiaagddngobkck)
